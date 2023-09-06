@@ -1,3 +1,5 @@
+//Wendel Lucca da Silva Vieira
+
 import React, { useState, useEffect, useRef } from "react";
 import "./App.css";
 import StarIcon from '@mui/icons-material/Star';
@@ -15,7 +17,6 @@ function App() {
   const inputRef = useRef(null);
   const [activeTab, setActiveTab] = useState('POWERSTATS');
   
-
   useEffect(() => {
     const fetchData = async () => {
       try {
