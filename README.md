@@ -6,10 +6,10 @@ O projeto consiste em um local onde é possivel procurar seu heroi preferido e o
 
 ## 💥 Imagens do projeto
 
-## 👇 Campo de busca 
+## 🔎 Campo de busca 
 
 ![image](https://github.com/Wendel25/App-Characters/assets/69828304/cb52e096-e4cb-470c-b3e3-7bfa53dae12e)
 
-## 👇 Resultado da pesquisa
+## 🔎 Resultado da pesquisa
 
 <img width="717" alt="image" src="https://github.com/Wendel25/App-Characters/assets/69828304/c69a51d6-f08d-4437-9e7b-8dda0cafb27a">
